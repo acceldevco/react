@@ -1,0 +1,321 @@
+        <div class=" bg-[#141619] w-full">
+            <div class="flex justify-start items-start flex-grow-0 flex-shrink-0 max-[1200px]:[&>:nth-child(2)]:w-full max-[1200px]:[&>:nth-child(1)]:hidden rounded-[10px] [&>:nth-child(1)]:w-[60%] [&>:nth-child(2)]:w-[40%]">
+                <div class="flex p-6 self-stretch flex-grow-0 flex-shrink-0 " data-pg-collapsed>
+                    <div class="flex flex-col  flex-grow  relative">
+                        <div class="self-stretch flex-grow relative bg-[#141619]">
+                            <div class="flex justify-center items-start ">
+                                <div class="flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0  overflow-hidden">
+                                    <div class="flex flex-col justify-center items-center flex-grow-0 flex-shrink-0 h-8  relative overflow-hidden">
+                                        <svg width="250" height="33" viewBox="0 0 250 33" fill="none" xmlns="http://www.w3.org/2000/svg" class="flex-grow-0 flex-shrink-0  h-8 relative" preserveAspectRatio="none">
+                                            <g clip-path="url(#clip0_580_15)">
+                                                <path d="M26.0613 16.6791C26.0613 18.8638 25.8488 20.8674 25.4132 22.6898C24.9776 24.5066 24.3295 26.0744 23.4689 27.3932C22.6084 28.7119 21.5459 29.7307 20.2763 30.4552C19.3573 30.9815 18.3373 31.3155 17.2005 31.4569C14.3212 28.6497 15.543 20.7598 18.5976 20.3806C17.2695 24.2463 18.9748 26.6234 20.4144 26.7593C23.4265 27.0479 26.2207 21.6484 26.0242 15.0547C26.0507 15.5924 26.0613 16.1301 26.0613 16.6791Z" fill="#EFE7FF"></path>
+                                                <path d="M27.7687 27.4438C24.6769 31.0661 20.1456 33.2226 17.9675 32.0453C17.6807 31.8925 17.4257 31.7001 17.1973 31.468C18.3341 31.3208 19.3594 30.9869 20.2731 30.4662C21.5427 29.7361 22.5998 28.723 23.4657 27.4042C24.3316 26.0855 24.9797 24.5177 25.41 22.7009C25.8456 20.8784 26.0581 18.8748 26.0581 16.6901C26.0581 16.1411 26.0475 15.6034 26.0156 15.0714V15.0544C25.9838 14.0526 25.8828 13.0225 25.7075 11.9755C24.916 7.32872 22.483 1.89525 20.1881 0.50293C20.7352 0.655746 21.2665 0.848181 21.7871 1.08024C21.8083 1.08024 21.8349 1.09155 21.8508 1.10853C24.2785 2.21221 28.4752 4.90064 30.632 10.5605C32.7303 16.0506 31.5935 22.9726 27.7687 27.4438Z" fill="#B79EF4"></path>
+                                                <path d="M13.0826 12.6037C14.4106 8.74368 12.7054 6.3722 11.2658 6.2307C8.35465 5.94771 5.64539 10.9906 5.64539 17.2731C5.63477 17.075 5.63477 16.8769 5.63477 16.6731C5.63477 14.4658 5.86319 12.4396 6.30411 10.5888C6.74503 8.73236 7.39844 7.13062 8.26965 5.77226C9.14087 4.41389 10.2086 3.3555 11.473 2.59708C12.392 2.05373 13.4013 1.70282 14.5222 1.55566C17.3536 4.40257 16.1265 12.2302 13.0826 12.6037Z" fill="#EFE7FF"></path>
+                                                <path d="M11.4881 32.493C11.1109 32.3798 10.7444 32.2609 10.3885 32.1308C10.3566 32.1194 10.33 32.1025 10.2928 32.0911C10.2238 32.0628 10.1441 32.0345 10.0644 32.0006C9.99535 31.9666 9.91567 31.9327 9.83598 31.9044C7.41359 30.8007 3.20095 28.1066 1.03886 22.4411C-0.549509 18.2754 -0.283896 13.2891 1.61259 9.17438C1.68164 9.01024 1.76133 8.85176 1.84101 8.69329C2.00038 8.37634 2.17037 8.06504 2.35099 7.75941C2.69098 7.18777 3.05752 6.64442 3.45063 6.11805C3.58344 5.94826 3.71624 5.77846 3.85968 5.60867C3.8703 5.59169 3.89155 5.56905 3.90749 5.55207C3.92874 5.52377 3.9553 5.49547 3.97655 5.46717C7.0736 1.90146 11.5518 -0.215324 13.7086 0.950606C14.0061 1.11474 14.2717 1.3185 14.5108 1.56187C13.3899 1.71469 12.3806 2.05994 11.4615 2.60328C10.1972 3.36736 9.12945 4.4201 8.25824 5.77846C7.38702 7.13683 6.73362 8.73857 6.2927 10.595C5.85178 12.4458 5.62335 14.472 5.62335 16.6793C5.62335 16.8831 5.62335 17.0812 5.63398 17.2793C5.63398 17.4547 5.63398 17.6359 5.6446 17.8113C5.65522 18.4735 5.70303 19.1414 5.78803 19.8262C5.80397 20.0413 5.83584 20.2507 5.87303 20.4714C5.89428 20.6639 5.92615 20.845 5.95802 21.0374C5.96865 21.1223 5.9899 21.2072 6.00583 21.2921C6.08552 21.7732 6.18645 22.2373 6.2927 22.6958C6.40425 23.1486 6.52644 23.59 6.65924 24.0145C6.66987 24.0598 6.68049 24.0994 6.70174 24.1447C7.82263 27.8576 9.70318 31.4063 11.4881 32.493Z" fill="#B79EF4"></path>
+                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M221.391 32.4895H218.602L231.92 16.7098L219.775 0.5H226.091L235.263 12.7819L245.597 0.5H248.408L236.543 14.5421L250.001 32.4895H243.641L233.206 18.47L221.391 32.4895ZM73.6928 0.505859V23.9037H73.4581L54.8073 0.505859H49.7771V32.484H52.1804V7.22977H52.3705L72.6532 32.484H76.029V0.505859H73.6928ZM90.9021 31.2217C92.931 32.065 95.1163 32.4895 97.4525 32.4895C99.0175 32.4895 100.515 32.2971 101.935 31.9122C103.36 31.5273 104.696 30.984 105.931 30.2765C107.166 29.569 108.29 28.7257 109.29 27.7409C110.291 26.7561 111.151 25.6637 111.872 24.4638C112.599 23.2639 113.152 21.9735 113.538 20.5981C113.924 19.2228 114.119 17.7965 114.119 16.3193C114.119 14.8591 113.924 13.4497 113.538 12.097C113.147 10.7443 112.593 9.48785 111.872 8.31626C111.151 7.15033 110.291 6.08628 109.29 5.1241C108.29 4.16193 107.166 3.34125 105.931 2.6564C104.696 1.97156 103.36 1.4452 101.935 1.06599C100.504 0.686775 99.0119 0.5 97.4469 0.5C95.882 0.5 94.3841 0.686775 92.9589 1.06599C91.5337 1.43954 90.2035 1.97156 88.9739 2.6564C87.7443 3.34125 86.6265 4.16193 85.6149 5.1241C84.6088 6.08062 83.7481 7.15033 83.0327 8.31626C82.3229 9.48219 81.7696 10.7443 81.3839 12.097C80.9983 13.4497 80.8027 14.8591 80.8027 16.3193C80.8027 18.5493 81.233 20.6491 82.0882 22.6074C82.9489 24.5714 84.1226 26.2863 85.6205 27.7522C87.1127 29.2181 88.8733 30.3784 90.9021 31.2217ZM102.041 29.869C100.711 30.6048 99.1852 30.967 97.4525 30.967C95.692 30.967 94.1494 30.6048 92.8192 29.869C91.489 29.1389 90.3768 28.1201 89.4713 26.8127C88.5659 25.5052 87.884 23.9601 87.4313 22.1772C86.9786 20.3944 86.7494 18.4417 86.7494 16.3193C86.7494 14.2138 86.973 12.2838 87.4313 10.5293C87.8896 8.77471 88.5659 7.26353 89.4713 5.99572C90.3768 4.72225 91.489 3.7431 92.8192 3.04128C94.1438 2.34511 95.692 1.9942 97.4525 1.9942C99.1852 1.9942 100.711 2.33945 102.041 3.04128C103.371 3.7431 104.489 4.72791 105.4 5.99572C106.311 7.26353 106.999 8.77471 107.463 10.5293C107.927 12.2838 108.156 14.2138 108.156 16.3193C108.156 18.4417 107.927 20.3944 107.463 22.1772C106.999 23.9601 106.311 25.5052 105.4 26.8127C104.489 28.1201 103.371 29.1389 102.041 29.869ZM118.904 0.5H131.625C133.307 0.5 134.856 0.686775 136.258 1.06599C137.667 1.4452 138.869 1.97722 139.88 2.66772C140.886 3.35823 141.669 4.19023 142.228 5.1524C142.781 6.12024 143.06 7.17863 143.06 8.3389C143.06 9.22184 142.971 10.0142 142.798 10.7047C142.624 11.3952 142.311 12.0348 141.87 12.6234C141.423 13.212 140.836 13.7667 140.093 14.2874C139.355 14.8081 138.421 15.3458 137.292 15.8891V15.9854C138.421 16.1608 139.439 16.4665 140.344 16.9023C141.249 17.3381 142.021 17.8871 142.669 18.5549C143.312 19.2228 143.809 20.0039 144.156 20.8925C144.502 21.7867 144.681 22.7602 144.681 23.8243C144.681 25.0298 144.424 26.1618 143.904 27.2145C143.39 28.2673 142.647 29.1842 141.691 29.9652C140.73 30.7463 139.573 31.3632 138.215 31.8103C136.856 32.2631 135.336 32.4838 133.654 32.4838H118.904V0.5ZM124.214 14.9043H130.982C132.044 14.9043 132.989 14.7515 133.816 14.4459C134.643 14.1403 135.342 13.7158 135.912 13.1781C136.482 12.6404 136.918 11.9952 137.209 11.2481C137.505 10.501 137.65 9.69161 137.65 8.82565C137.65 7.89177 137.477 7.04279 137.125 6.27871C136.773 5.51463 136.23 4.85809 135.493 4.31474C134.755 3.76574 133.816 3.34691 132.681 3.05825C131.547 2.7696 130.183 2.62245 128.596 2.62245H124.214V14.9043ZM124.22 30.152H129.954C131.497 30.152 132.832 30.0048 133.967 29.7049C135.101 29.4049 136.04 28.9917 136.778 28.4484C137.516 27.9107 138.064 27.2598 138.421 26.507C138.779 25.7486 138.958 24.9223 138.958 24.0224C138.958 23.0092 138.801 22.0697 138.483 21.1981C138.164 20.3265 137.645 19.5794 136.924 18.9398C136.203 18.3059 135.258 17.8022 134.09 17.4343C132.922 17.0664 131.491 16.8796 129.792 16.8796H124.22V30.152ZM156.663 0.5H151.348V32.4895H156.663V0.5ZM188.938 0.5V2.57717H177.503V32.4952H172.187V2.57717H160.752V0.5H188.938ZM214.985 2.57717V0.5H193.02V32.4952H214.985V30.418H198.329V16.0872H209.479V14.0101H198.329V2.57717H214.985Z" fill="#B79EF4"></path>
+                                            </g>
+                                            <defs>
+                                                <clipPath id="clip0_580_15">
+                                                    <rect width="250" height="32" fill="white" transform="translate(0 0.5)"></rect>
+                                                </clipPath>
+                                            </defs>
+                                        </svg>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="">
+                                <div class="flex flex-col justify-center items-center  overflow-hidden">
+                                    <div class="flex flex-col justify-center items-center flex-grow-0 flex-shrink-0  relative overflow-hidden py-[10.398797035217285px]">
+                                        <svg width="744" height="666" viewBox="0 0 744 666" fill="none" xmlns="http://www.w3.org/2000/svg" class="flex-grow-0 flex-shrink-0  relative" preserveAspectRatio="none">
+                                            <g clip-path="url(#clip0_580_24)">
+                                                <g opacity="0.4">
+                                                    <path d="M719.577 220.322C725.12 220.322 729.613 215.829 729.613 210.286C729.613 204.744 725.12 200.251 719.577 200.251C714.035 200.251 709.542 204.744 709.542 210.286C709.542 215.829 714.035 220.322 719.577 220.322Z" fill="#9371DA"></path>
+                                                    <path d="M556 164.125C561.542 164.125 566.035 159.632 566.035 154.089C566.035 148.547 561.542 144.054 556 144.054C550.458 144.054 545.965 148.547 545.965 154.089C545.965 159.632 550.458 164.125 556 164.125Z" fill="#9371DA" fill-opacity="0.6"></path>
+                                                    <g filter="url(#filter0_f_580_24)">
+                                                        <path d="M635.011 342.754C637.782 342.754 640.029 340.507 640.029 337.736C640.029 334.965 637.782 332.718 635.011 332.718C632.24 332.718 629.993 334.965 629.993 337.736C629.993 340.507 632.24 342.754 635.011 342.754Z" fill="#9371DA"></path>
+                                                    </g>
+                                                    <g filter="url(#filter1_f_580_24)">
+                                                        <path d="M73.1168 271.459C75.888 271.459 78.1345 269.212 78.1345 266.441C78.1345 263.67 75.888 261.423 73.1168 261.423C70.3456 261.423 68.0991 263.67 68.0991 266.441C68.0991 269.212 70.3456 271.459 73.1168 271.459Z" fill="#9371DA"></path>
+                                                    </g>
+                                                    <path d="M590.042 491.421C592.259 491.421 594.057 489.624 594.057 487.407C594.057 485.19 592.259 483.393 590.042 483.393C587.825 483.393 586.028 485.19 586.028 487.407C586.028 489.624 587.825 491.421 590.042 491.421Z" fill="#9371DA" fill-opacity="0.4"></path>
+                                                    <path d="M733.625 511.349C739.167 511.349 743.66 506.856 743.66 501.313C743.66 495.771 739.167 491.278 733.625 491.278C728.083 491.278 723.59 495.771 723.59 501.313C723.59 506.856 728.083 511.349 733.625 511.349Z" fill="#9371DA" fill-opacity="0.4"></path>
+                                                    <path d="M353.872 664.615C364.236 664.615 372.638 655.973 372.638 645.313C372.638 634.653 364.236 626.011 353.872 626.011C343.508 626.011 335.107 634.653 335.107 645.313C335.107 655.973 343.508 664.615 353.872 664.615Z" fill="#9371DA"></path>
+                                                    <path d="M433.073 480.945C438.615 480.945 443.108 476.452 443.108 470.91C443.108 465.368 438.615 460.875 433.073 460.875C427.53 460.875 423.037 465.368 423.037 470.91C423.037 476.452 427.53 480.945 433.073 480.945Z" fill="#9371DA"></path>
+                                                    <path d="M536.014 398.376C541.556 398.376 546.049 393.883 546.049 388.341C546.049 382.799 541.556 378.306 536.014 378.306C530.471 378.306 525.979 382.799 525.979 388.341C525.979 393.883 530.471 398.376 536.014 398.376Z" fill="#9371DA"></path>
+                                                    <path d="M457.007 316.495C459.778 316.495 462.025 314.249 462.025 311.477C462.025 308.706 459.778 306.46 457.007 306.46C454.236 306.46 451.989 308.706 451.989 311.477C451.989 314.249 454.236 316.495 457.007 316.495Z" fill="#9371DA"></path>
+                                                    <g filter="url(#filter2_f_580_24)">
+                                                        <path d="M445.94 209.649C451.482 209.649 455.975 205.156 455.975 199.613C455.975 194.071 451.482 189.578 445.94 189.578C440.398 189.578 435.905 194.071 435.905 199.613C435.905 205.156 440.398 209.649 445.94 209.649Z" fill="#9371DA"></path>
+                                                    </g>
+                                                    <g filter="url(#filter3_f_580_24)">
+                                                        <path d="M345.143 453.064C350.685 453.064 355.178 448.571 355.178 443.029C355.178 437.486 350.685 432.993 345.143 432.993C339.6 432.993 335.107 437.486 335.107 443.029C335.107 448.571 339.6 453.064 345.143 453.064Z" fill="#9371DA"></path>
+                                                    </g>
+                                                    <g filter="url(#filter4_f_580_24)">
+                                                        <path d="M217.535 510.969C223.078 510.969 227.571 506.476 227.571 500.934C227.571 495.391 223.078 490.898 217.535 490.898C211.993 490.898 207.5 495.391 207.5 500.934C207.5 506.476 211.993 510.969 217.535 510.969Z" fill="#9371DA" fill-opacity="0.5"></path>
+                                                    </g>
+                                                    <g filter="url(#filter5_f_580_24)">
+                                                        <path d="M546.737 281.494C552.279 281.494 556.772 277.001 556.772 271.458C556.772 265.916 552.279 261.423 546.737 261.423C541.195 261.423 536.702 265.916 536.702 271.458C536.702 277.001 541.195 281.494 546.737 281.494Z" fill="#9371DA" fill-opacity="0.2"></path>
+                                                    </g>
+                                                    <path d="M178.167 225.004C182.323 225.004 185.693 221.635 185.693 217.478C185.693 213.321 182.323 209.951 178.167 209.951C174.01 209.951 170.64 213.321 170.64 217.478C170.64 221.635 174.01 225.004 178.167 225.004Z" fill="#9371DA"></path>
+                                                    <path d="M327.694 169.142C331.851 169.142 335.221 165.772 335.221 161.615C335.221 157.459 331.851 154.089 327.694 154.089C323.538 154.089 320.168 157.459 320.168 161.615C320.168 165.772 323.538 169.142 327.694 169.142Z" fill="#9371DA" fill-opacity="0.4"></path>
+                                                    <g filter="url(#filter6_f_580_24)">
+                                                        <path d="M290.06 77.819C295.602 77.819 300.095 73.326 300.095 67.7836C300.095 62.2412 295.602 57.7482 290.06 57.7482C284.517 57.7482 280.024 62.2412 280.024 67.7836C280.024 73.326 284.517 77.819 290.06 77.819Z" fill="#9371DA"></path>
+                                                    </g>
+                                                    <g filter="url(#filter7_f_580_24)">
+                                                        <path d="M39.531 453.064C45.0734 453.064 49.5664 448.571 49.5664 443.029C49.5664 437.486 45.0734 432.993 39.531 432.993C33.9886 432.993 29.4956 437.486 29.4956 443.029C29.4956 448.571 33.9886 453.064 39.531 453.064Z" fill="#9371DA"></path>
+                                                    </g>
+                                                    <path d="M409.48 46.709C415.022 46.709 419.515 42.216 419.515 36.6736C419.515 31.1312 415.022 26.6382 409.48 26.6382C403.938 26.6382 399.445 31.1312 399.445 36.6736C399.445 42.216 403.938 46.709 409.48 46.709Z" fill="#9371DA"></path>
+                                                    <g filter="url(#filter8_f_580_24)">
+                                                        <path d="M658.26 26.2818C663.802 26.2818 668.295 21.7888 668.295 16.2464C668.295 10.704 663.802 6.21103 658.26 6.21103C652.718 6.21103 648.225 10.704 648.225 16.2464C648.225 21.7888 652.718 26.2818 658.26 26.2818Z" fill="#9371DA"></path>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <defs>
+                                                <filter id="filter0_f_580_24" x="620.381" y="323.107" width="29.2592" height="29.2592" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                    <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+                                                    <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feBlend>
+                                                    <feGaussianBlur stdDeviation="4.80595" result="effect1_foregroundBlur_580_24"></feGaussianBlur>
+                                                </filter>
+                                                <filter id="filter1_f_580_24" x="58.4872" y="251.811" width="29.2592" height="29.2592" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                    <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+                                                    <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feBlend>
+                                                    <feGaussianBlur stdDeviation="4.80595" result="effect1_foregroundBlur_580_24"></feGaussianBlur>
+                                                </filter>
+                                                <filter id="filter2_f_580_24" x="421.487" y="175.16" width="48.9065" height="48.9065" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                    <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+                                                    <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feBlend>
+                                                    <feGaussianBlur stdDeviation="7.20893" result="effect1_foregroundBlur_580_24"></feGaussianBlur>
+                                                </filter>
+                                                <filter id="filter3_f_580_24" x="331.263" y="429.149" width="27.7603" height="27.7604" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                    <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+                                                    <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feBlend>
+                                                    <feGaussianBlur stdDeviation="1.92238" result="effect1_foregroundBlur_580_24"></feGaussianBlur>
+                                                </filter>
+                                                <filter id="filter4_f_580_24" x="197.888" y="481.287" width="39.2946" height="39.2946" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                    <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+                                                    <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feBlend>
+                                                    <feGaussianBlur stdDeviation="4.80595" result="effect1_foregroundBlur_580_24"></feGaussianBlur>
+                                                </filter>
+                                                <filter id="filter5_f_580_24" x="527.09" y="251.811" width="39.2946" height="39.2946" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                    <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+                                                    <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feBlend>
+                                                    <feGaussianBlur stdDeviation="4.80595" result="effect1_foregroundBlur_580_24"></feGaussianBlur>
+                                                </filter>
+                                                <filter id="filter6_f_580_24" x="251.189" y="28.9125" width="77.7422" height="77.7422" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                    <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+                                                    <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feBlend>
+                                                    <feGaussianBlur stdDeviation="14.4179" result="effect1_foregroundBlur_580_24"></feGaussianBlur>
+                                                </filter>
+                                                <filter id="filter7_f_580_24" x="0.659901" y="404.158" width="77.7422" height="77.7422" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                    <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+                                                    <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feBlend>
+                                                    <feGaussianBlur stdDeviation="14.4179" result="effect1_foregroundBlur_580_24"></feGaussianBlur>
+                                                </filter>
+                                                <filter id="filter8_f_580_24" x="643.419" y="1.40508" width="29.6827" height="29.6827" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                    <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+                                                    <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feBlend>
+                                                    <feGaussianBlur stdDeviation="2.40298" result="effect1_foregroundBlur_580_24"></feGaussianBlur>
+                                                </filter>
+                                                <clipPath id="clip0_580_24">
+                                                    <rect width="743" height="664.182" fill="white" transform="translate(0.659912 0.918823)"></rect>
+                                                </clipPath>
+                                            </defs>
+                                        </svg>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="flex flex-col justify-center items-start self-stretch h-full flex-grow-0 flex-shrink-0 p-6 rounded-[10px]" data-pg-collapsed>
+                    <div class="flex flex-col justify-start items-start self-stretch flex-grow  h-full rounded-[10px]  border border-[#212529] ">
+                        <div class="flex flex-col justify-center items-center self-stretch flex-grow-0 flex-shrink-0 h-10  rounded-tl-[10px] rounded-tr-[10px] bg-[#413825]/60">
+                            <div class="flex flex-row-reverse justify-between items-center flex-grow-0 flex-shrink-0 " data-pg-collapsed>
+                                <div class="flex flex-row-reverse justify-start items-start flex-grow-0 flex-shrink-0 relative space-x-[-8.526512829121202e-14px] space-x-reverse pr-[8.526512829121202e-14px]">
+                                    <svg width="18" height="19" viewBox="0 0 18 19" fill="none" xmlns="http://www.w3.org/2000/svg" class="flex-grow-0 flex-shrink-0 w-[18px] h-[18px] relative" preserveAspectRatio="none">
+                                        <path d="M13.5 6.5H12.75V5C12.75 2.93 11.07 1.25 9 1.25C6.93 1.25 5.25 2.93 5.25 5V6.5H4.5C3.675 6.5 3 7.175 3 8V15.5C3 16.325 3.675 17 4.5 17H13.5C14.325 17 15 16.325 15 15.5V8C15 7.175 14.325 6.5 13.5 6.5ZM6.75 5C6.75 3.755 7.755 2.75 9 2.75C10.245 2.75 11.25 3.755 11.25 5V6.5H6.75V5ZM13.5 15.5H4.5V8H13.5V15.5ZM9 13.25C9.825 13.25 10.5 12.575 10.5 11.75C10.5 10.925 9.825 10.25 9 10.25C8.175 10.25 7.5 10.925 7.5 11.75C7.5 12.575 8.175 13.25 9 13.25Z" fill="#FDA802"></path>
+                                    </svg>
+                                    <div class="flex flex-col justify-start items-end flex-grow-0 flex-shrink-0 relative pr-1">
+                                        <p class="flex-grow-0 flex-shrink-0 text-xs text-right text-white">
+                    مطمئن شوید در دامنه رسمی نوبیتکس هستید </p>
+                                    </div>
+                                </div>
+                                <div class="flex flex-col justify-start items-start flex-grow-0 flex-shrink-0 relative pr-[9.947598300641403e-14px]">
+                                    <p class="flex-grow-0 flex-shrink-0 text-[11.25px] text-left"> <span class="flex-grow-0 flex-shrink-0 text-[11.25px] text-left text-[#fb3]">https://</span><span class="flex-grow-0 flex-shrink-0 text-[11.25px] text-left text-white">nobitex.ir</span> </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="flex flex-col justify-start items-center self-stretch flex-grow-0 flex-shrink-0 " data-pg-collapsed>
+                            <div class="flex flex-col justify-start items-start flex-grow-0 flex-shrink-0 p-5  gap-4">
+                                <div class="flex flex-col justify-start items-end self-stretch flex-grow-0 flex-shrink-0 relative ">
+                                    <p class="flex-grow-0 flex-shrink-0 text-[34px] font-medium text-right text-white">
+                  ورود به نوبیتکس </p>
+                                </div>
+                                <div class="flex flex-row-reverse justify-between w-full items-start flex-grow-0 flex-shrink-0  pb-2">
+                                    <div class="flex flex-col justify-center h-8 items-center flex-grow-0 flex-shrink-0 relative">
+                                        <p class="text-xs text-white flex-grow-0 flex-shrink-0   text-center ">
+                    اگر تاکنون ثبت‌نام نکرده‌اید </p>
+                                    </div>
+                                    <div class="flex flex-col justify-center items-center flex-grow-0 flex-shrink-0 h-8 relative  rounded-[3.2px]">
+                                        <p class="flex-grow-0 flex-shrink-0 text-sm font-medium text-center text-[#9f7ef1]">
+                    ثبت نام رایگان </p>
+                                    </div>
+                                </div>
+                                <div class="flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0 gap-2 pb-[5.6843418860808015e-14px]">
+                                    <div class="flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0 pb-[5.6843418860808015e-14px]">
+                                        <div class="flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0 py-2">
+                                            <div class="flex flex-col justify-start items-center self-stretch flex-grow-0 flex-shrink-0 relative gap-px pb-px">
+                                                <div class="flex flex-col justify-end items-end self-stretch flex-grow-0 flex-shrink-0 pb-2">
+                                                    <div class="flex flex-col justify-start items-end flex-grow-0 flex-shrink-0  relative ">
+                                                        <p class="flex-grow-0 flex-shrink-0 text-sm text-right text-white">
+                            ایمیل یا شماره همراه </p>
+                                                    </div>
+                                                </div>
+                                                <div class="self-stretch flex-grow  h-[38px] relative rounded border border-[#60626b]"></div>
+                                            </div>
+                                        </div>
+                                        <div class="flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0 py-2">
+                                            <div class="flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0">
+                                                <div class="flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0 pb-2">
+                                                    <div class="flex flex-row-reverse justify-between w-full items-start flex-grow-0 flex-shrink-0  pb-2">
+                                                        <div class="flex justify-center items-start flex-grow-0 flex-shrink-0 relative pb-[0.5px]">
+                                                            <p class="flex-grow-0 flex-shrink-0 text-sm text-center text-white">
+                              رمز عبور </p>
+                                                        </div>
+                                                        <div class="flex flex-col justify-center items-center flex-grow-0 flex-shrink-0 h-6 relative px-2 pt-0.5 pb-1 rounded-[3.2px]">
+                                                            <p class="flex-grow-0 flex-shrink-0 text-xs font-medium text-center text-[#9f7ef1]">
+                              رمز عبور را فراموش کرده‌اید؟ </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="flex flex-col justify-center items-start self-stretch flex-grow-0 flex-shrink-0 relative ">
+                                                    <input type="text" class="self-stretch"/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0 relative py-2">
+                                            <div class="flex flex-col justify-center items-center self-stretch flex-grow-0 flex-shrink-0">
+                                                <div class="flex flex-row-reverse justify-between w-full items-start flex-grow-0 flex-shrink-0  pb-2">
+                                                    <div class="flex justify-center items-center flex-grow-0 flex-shrink-0 w-[72.75px] " data-pg-collapsed>
+                                                        <p class="flex-grow-0 flex-shrink-0 text-sm text-center text-white">
+                        کپچای امنیتی </p>
+                                                    </div>
+                                                    <div class="flex justify-end items-center self-stretch flex-grow-0 flex-shrink-0 relative px-2 pt-0.5 pb-1 rounded-[3.2px] " data-pg-collapsed>
+                                                        <p class="flex-grow-0 flex-shrink-0 text-xs font-medium text-right text-[#9f7ef1]">
+                            تغییر نوع کپچا </p>
+                                                    </div>
+                                                </div>
+                                                <div class="flex justify-center items-start [&>*]:w-1/2  flex-grow-0 flex-shrink-0 ">
+                                                    <input class="flex flex-col justify-center items-center flex-grow-0 flex-shrink-0 h-9  rounded"/>
+                                                    <input class="flex flex-col justify-start items-start flex-grow-0 flex-shrink-0 h-12 w-12 px-3 py-[11.5px] rounded border border-[#60626b] bg-[#141619]"/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0 py-2">
+                                            <div class="flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0 space-y-[-5.6843418860808015e-14px] pb-[5.6843418860808015e-14px]">
+                                                <div class="flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0 pb-2">
+                                                    <div class="flex flex-row-reverse justify-between w-full items-start flex-grow-0 flex-shrink-0  pb-2">
+                                                        <div class="flex justify-end items-start flex-grow-0 flex-shrink-0 relative pb-[0.5px]">
+                                                            <p class="flex-grow-0 flex-shrink-0 text-sm text-right text-white">
+                              کد شناسه‌ی دو عاملی (اختیاری) </p>
+                                                        </div>
+                                                        <div class="flex flex-col justify-center items-center flex-grow-0 flex-shrink-0 h-6 relative px-2 pt-0.5 pb-1 rounded-[3.2px]">
+                                                            <p class="flex-grow-0 flex-shrink-0 text-xs font-medium text-center text-[#9f7ef1]">
+                              دسترسی ندارید؟ </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="flex justify-between items-start self-stretch flex-grow-0 flex-shrink-0 pr-[0.05000000074505806px]" data-pg-collapsed>
+                                                    <div class="flex flex-col justify-start items-start flex-grow-0 flex-shrink-0 h-14 w-12 pl-px pt-px pb-[7px]" data-pg-collapsed>
+                                                        <div class="flex flex-col justify-start items-start flex-grow-0 flex-shrink-0 h-12 w-12 px-3 py-[11.5px] rounded border border-[#60626b]">
+                                                            <div class="flex justify-start items-center self-stretch flex-grow-0 flex-shrink-0 relative">
+                                                                <div class="flex-grow w-6 h-[25px] relative"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="flex flex-col justify-center items-start self-stretch flex-grow-0 flex-shrink-0 w-14 pl-2" data-pg-collapsed>
+                                                        <div class="flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0 h-14 pl-px pt-px pb-[7px]">
+                                                            <div class="flex flex-col justify-start items-start flex-grow-0 flex-shrink-0 h-12 w-12 px-3 py-[11.5px] rounded border border-[#60626b]">
+                                                                <div class="flex justify-start items-center self-stretch flex-grow-0 flex-shrink-0 relative">
+                                                                    <div class="flex-grow w-6 h-[25px] relative"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="flex flex-col justify-center items-start self-stretch flex-grow-0 flex-shrink-0 w-14 pl-2" data-pg-collapsed>
+                                                        <div class="flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0 h-14 pl-px pt-px pb-[7px]">
+                                                            <div class="flex flex-col justify-start items-start flex-grow-0 flex-shrink-0 h-12 w-12 px-3 py-[11.5px] rounded border border-[#60626b]">
+                                                                <div class="flex justify-start items-center self-stretch flex-grow-0 flex-shrink-0 relative">
+                                                                    <div class="flex-grow w-6 h-[25px] relative"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="flex flex-col justify-center items-start self-stretch flex-grow-0 flex-shrink-0 w-14 pl-2" data-pg-collapsed>
+                                                        <div class="flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0 h-14 pl-px pt-px pb-[7px]">
+                                                            <div class="flex flex-col justify-start items-start flex-grow-0 flex-shrink-0 h-12 w-12 px-3 py-[11.5px] rounded border border-[#60626b]">
+                                                                <div class="flex justify-start items-center self-stretch flex-grow-0 flex-shrink-0 relative">
+                                                                    <div class="flex-grow w-6 h-[25px] relative"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="flex flex-col justify-center items-start self-stretch flex-grow-0 flex-shrink-0 w-14 pl-2" data-pg-collapsed>
+                                                        <div class="flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0 h-14 pl-px pt-px pb-[7px]">
+                                                            <div class="flex flex-col justify-start items-start flex-grow-0 flex-shrink-0 h-12 w-12 px-3 py-[11.5px] rounded border border-[#60626b]">
+                                                                <div class="flex justify-start items-center self-stretch flex-grow-0 flex-shrink-0 relative">
+                                                                    <div class="flex-grow w-6 h-[25px] relative"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="flex flex-col justify-center items-start self-stretch flex-grow-0 flex-shrink-0 w-14 pl-2" data-pg-collapsed>
+                                                        <div class="flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0 h-14 pl-px pt-px pb-[7px]" data-pg-collapsed>
+                                                            <div class="flex flex-col justify-start items-start flex-grow-0 flex-shrink-0 h-12 w-12 px-3 py-[11.5px] rounded border border-[#60626b]">
+                                                                <div class="flex justify-start items-center self-stretch flex-grow-0 flex-shrink-0 relative">
+                                                                    <div class="flex-grow w-6 h-[25px] relative"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0 py-2">
+                                            <div class="flex flex-row-reverse justify-start items-start self-stretch flex-grow-0 flex-shrink-0 relative space-x-[-9.947598300641403e-14px] space-x-reverse ">
+                                                <div class="flex flex-col justify-center items-start self-stretch flex-grow-0 flex-shrink-0 w-8 relative pl-2">
+                                                    <div class="self-stretch flex-grow-0 flex-shrink-0 h-6 rounded-[3px] border-2 border-[#a3a5a8]"></div>
+                                                </div>
+                                                <p class="flex-grow-0 flex-shrink-0 text-[15px] text-right text-[#a3a5a8]">
+                        من را به خاطر بسپار </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="flex justify-center items-center self-stretch flex-grow-0 flex-shrink-0 h-10 relative   pt-[7.5px] pb-[8.5px] rounded-md border border-[#784ed1]" style="background: linear-gradient(177.91deg, #814ceb -133.26%, #9f7ef1 233.26%);">
+                                        <p class="flex-grow-0 flex-shrink-0 text-base font-bold text-center text-white">
+                    ورود </p>
+                                    </div>
+                                </div>
+                                <div class="flex flex-row-reverse justify-center items-center self-stretch flex-grow-0 flex-shrink-0 h-10 relative gap-2   rounded-md bg-[#2a2c34] border border-[#2a2c34]">
+                                    <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg" class="flex-grow-0 flex-shrink-0 w-4 h-4 relative" preserveAspectRatio="none">
+                                        <g clip-path="url(#clip0_580_162)">
+                                            <path d="M16.3299 8.90982C16.3299 8.38315 16.2833 7.88315 16.2033 7.39648H8.66992V10.4032H12.9833C12.7899 11.3898 12.2233 12.2232 11.3833 12.7898V14.7898H13.9566C15.4633 13.3965 16.3299 11.3432 16.3299 8.90982Z" fill="#4285F4"></path>
+                                            <path d="M8.67027 16.7302C10.8303 16.7302 12.6369 16.0102 13.9569 14.7902L11.3836 12.7902C10.6636 13.2702 9.75027 13.5635 8.67027 13.5635C6.58361 13.5635 4.81694 12.1569 4.18361 10.2568H1.53027V12.3169C2.84361 14.9302 5.54361 16.7302 8.67027 16.7302Z" fill="#34A853"></path>
+                                            <path d="M4.18326 10.2569C4.01659 9.77689 3.92992 9.26355 3.92992 8.73022C3.92992 8.19689 4.02326 7.68355 4.18326 7.20355V5.14355H1.52992C0.983255 6.22355 0.669922 7.43689 0.669922 8.73022C0.669922 10.0236 0.983255 11.2369 1.52992 12.3169L4.18326 10.2569Z" fill="#FBBC05"></path>
+                                            <path d="M8.67027 3.89665C9.85027 3.89665 10.9036 4.30332 11.7369 5.09665L14.0169 2.81665C12.6369 1.52331 10.8303 0.72998 8.67027 0.72998C5.54361 0.72998 2.84361 2.52998 1.53027 5.14332L4.18361 7.20332C4.81694 5.30332 6.58361 3.89665 8.67027 3.89665Z" fill="#EA4335"></path>
+                                        </g>
+                                        <defs>
+                                            <clipPath id="clip0_580_162">
+                                                <rect width="16" height="16" fill="white" transform="translate(0.5 0.72998)"></rect>
+                                            </clipPath>
+                                        </defs>
+                                    </svg>
+                                    <p class="flex-grow-0 flex-shrink-0 text-base font-bold text-center text-white">
+                  ورود از طریق گوگل </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>

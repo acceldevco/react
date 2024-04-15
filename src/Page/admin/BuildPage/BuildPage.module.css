@@ -1,0 +1,10 @@
+textarea{
+    color:white;
+    border:1px solid #60626B;
+    font-size:15px;
+    background:black;
+    width:100%;
+    border-radius:10px;
+    outline: none;
+    padding:5px;
+}
